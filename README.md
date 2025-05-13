@@ -6,11 +6,17 @@ https://github.com/aalvaroo7/ExamenParcial2.git
 
 VLSM asignación:
 Subred	IP de red	Máscara	Nº Hosts	Usada para
+
 10.0.0.0/26	10.0.0.0	255.255.255.192	62	Hoth LAN
+
 10.0.0.64/27	10.0.0.64	255.255.255.224	30	Endor LAN
+
 10.0.0.96/27	10.0.0.96	255.255.255.224	30	HomeOne LAN
+
 10.0.0.128/30	10.0.0.128	255.255.255.252	2	Hoth ↔ HomeOne
+
 10.0.0.132/30	10.0.0.132	255.255.255.252	2	HomeOne ↔ Endor
+
 
 
 # Capturas correcto funcionamiento de los ejercicios
